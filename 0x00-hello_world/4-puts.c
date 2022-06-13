@@ -1,7 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - print a string to the screen
+ */
 int main(void)
 {
-	puts("programming is lie building a multilingual puzzle\n");
+ 	puts("\"programming is like building  multilingual puzzle");
 	return (0);
 }
