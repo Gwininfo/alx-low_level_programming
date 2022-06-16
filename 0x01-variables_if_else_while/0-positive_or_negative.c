@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - prints the a random number
+ * main - print a string to screen
+ *
  * Return: Always 0
  */
 
