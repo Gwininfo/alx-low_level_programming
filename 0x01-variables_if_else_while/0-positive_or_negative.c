@@ -3,8 +3,7 @@
 #include <stdio.h>
 /**
  * main - print a string to screen
- *
- * Return: Always 0
+ * * Return: Always 0
  */
 
 int main(void)
